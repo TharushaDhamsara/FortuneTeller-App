@@ -7,7 +7,7 @@ export default function RevealScreen() {
       <Text style={styles.headerText}>Your Coding Destiny</Text>
 
         <Image 
-        source={{ uri: 'https://images.pixels.com/images/artworkimages/mediumlarge/3/1-fortune-teller-crystal-ball-nikolay-todorov.jpg'}}
+        source={{ uri: 'https://images.pixels.com/images/artworkimages/mediumlarge/1/fortune-teller-steve-hartwell.jpg'}}
         style={styles.image}
         />
         
